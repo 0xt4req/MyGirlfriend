@@ -27,6 +27,14 @@ def get_audio():
     return said
 
 
+print("\n")
+print("############################################################")
+print("#    Code For       : My Girlfriend                        #")
+print("#    Code Language  : Python                               #")
+print("#    Code Author    : Md. Tareq Ahamed Jony                #")
+print("############################################################")
+print("\n")
+
 print("Listening...")
 while True:
     user_input = get_audio()
